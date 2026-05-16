@@ -71,11 +71,9 @@ Enter the mean inter arrival time of objects from feeder (in secs): 13
 Enter the mean inter service time of lathe machine (in secs): 5
 Enter the Additional time taken for the robot (in secs): 6
 Number of service centres: 7
-
 --------------------------------------------------
 Multiple Server with infinite capacity- (M/M/c):(∞/FIFO)
 --------------------------------------------------
-
 The mean arrival rate per second: 0.08
 The mean service rate per second: 0.09
 Average number of objects in the system: 0.85
