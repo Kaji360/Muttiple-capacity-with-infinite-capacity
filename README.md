@@ -75,4 +75,4 @@ print("-----------------------------------------------------")
 The average number of material in the system and in the conveyor and waiting are successfully found.
 
 ## Github link
-https://github.com/Kaji360/Muttiple-capacity-with-infinite-capacity/edit/main/README.md
+https://github.com/Kaji360/Muttiple-capacity-with-infinite-capacity/blob/main/README.md
