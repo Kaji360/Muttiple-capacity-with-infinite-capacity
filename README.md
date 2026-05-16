@@ -67,23 +67,9 @@ print("-----------------------------------------------------")
 ~~~
 
 ## Output :
-Enter the mean inter arrival time of objects from feeder (in secs): 13
-Enter the mean inter service time of lathe machine (in secs): 5
-Enter the Additional time taken for the robot (in secs): 6
-Number of service centres: 7
---------------------------------------------------
-Multiple Server with infinite capacity- (M/M/c):(∞/FIFO)
---------------------------------------------------
-The mean arrival rate per second: 0.08
-The mean service rate per second: 0.09
-Average number of objects in the system: 0.85
-Average number of objects in the conveyor: 0.00
-Average waiting time of an object in the system: 11.00 secs
-Average waiting time of an object in the conveyor: 11.00 secs
-Probability that the system is busy: 0.12
-Probability that the system is empty: 0.88
 
---------------------------------------------------
+<img width="760" height="363" alt="592913843-449e51e3-9ab5-4864-834a-9093866cf785" src="https://github.com/user-attachments/assets/34bddc6e-17bb-44e6-8b55-7b86e1357040" />
+
 
 ## Result : 
 The average number of material in the system and in the conveyor and waiting are successfully found.
